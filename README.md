@@ -1,6 +1,6 @@
-# Will You Be My Valentine? 💌
+# Cherry Blossom: Will You Be My Valentine? 🫰
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
+This project is designed to be an interactive webpage to ask her to be thy Valentine.
 
 ---
 
@@ -20,15 +20,8 @@ This project consists of a simple webpage with a "Yes" and "No" button. When the
    - Clone this repository or download the `index.html`, `styles.css`,`yes_style.css`,`yes_page.html` and `script.js` files.
 
 2. **Open the Project**:
-   - Open the `index.html` file in your web browser.
+   - Open the `index.html` file in your web browser. You can also deploy this with Netlify or GitHub Pages.
 
-
----
-
-## A Note on Code Usage 
-
-While I am happy to share this project, I encourage you to use it as inspiration.
-If you use this code as a base for your own project, please give credit where it's due. A simple shoutout or link back to this repository is appreciated!
 
 ---
 
@@ -57,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Enjoy 💖
+Enjoy 💀🐸
