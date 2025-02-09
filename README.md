@@ -1,6 +1,6 @@
 # Cherry Blossom: Will You Be My Valentine? 🫰
 
-This project is designed to be an interactive webpage to ask her to be thy Valentine.
+This project is designed to be an interactive webpage to ask Kuttush (her/him) to be your Valentine.
 
 ---
 
